@@ -2,7 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="com.aaassseee.screen_brightness_android.screen_brightness_android" target="11" />
+      <module name="com.aaassseee.screen_brightness_android.android.screen_brightness_android" target="11" />
+      <module name="com.aaassseee.screen_brightness_android.screen_brightness_android" target="16" />
+      <module name="example.android.app" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
